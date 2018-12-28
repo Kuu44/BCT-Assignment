@@ -10,10 +10,10 @@ Kushal and Gopal's Assignment
 
 #### We have made a repo about SuperHeroes; namely the Justice League and The Avengers. We have written information about them
 
-####The repo has been organized into 3 branches; a master branch and a branch each for eah collection of heroes.
+#### The repo has been organized into 3 branches; a master branch and a branch each for eah collection of heroes.
  
   The Heroes Featured are:
 
 |The Avengers|Justice League|
 ---|---
-*IronMan*|*Superman*
+**IronMan**|**Superman**
