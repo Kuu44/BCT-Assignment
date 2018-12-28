@@ -17,3 +17,7 @@ Kushal and Gopal's Assignment
 |The Avengers|Justice League|
 ---|---
 *IronMan*|*Superman*
+*Thanos*|*Aquaman*
+*Black Widow*|*WonderWoman*
+*Captain America*|*Flash*
+*Hulk*|*Batman*
